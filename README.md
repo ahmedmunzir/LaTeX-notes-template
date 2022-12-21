@@ -5,4 +5,4 @@ Recommend using [Visual Studio Code](https://code.visualstudio.com/) for compila
 
 Document accent colour can be changed in `mahmed.cls`. Locate the command `\definecolor{accentcolour}{rgb}{0.0, 0.42, 0.24}` to change the RBG value to your liking.
 
-I have also included a $\LaTeX{}$ command cheatsheet which can be used for reference in visual studio code to quickly typeset commands.
+I have also included a $\LaTeX{}$ command cheatsheet which can be used for reference in vsCode to quickly typeset commands.
